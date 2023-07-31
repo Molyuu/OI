@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int block[55][55], n = 0, m = 0;
+    int block[1010][1010], n = 0, m = 0;
     cin >> n >> m;
 
     for (int i = 1; i <= m; i++) {
