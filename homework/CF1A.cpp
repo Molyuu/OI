@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n, m, a;
+    long long n, m, a;
     scanf("%d %d %d", &n, &m, &a);
     if (n % a == 0) {
         n /= a;
